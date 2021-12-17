@@ -1,0 +1,1 @@
+# log4shell_honeypot_php
