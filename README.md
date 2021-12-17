@@ -24,3 +24,6 @@ Results
 all web server access will drop a files (with timestamp) in your "output" folder
 
 
+Plus
+You can simply extract with analyze.php , some client , some destination will be revealed
+
